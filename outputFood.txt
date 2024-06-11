@@ -1,0 +1,480 @@
+	event.create('food_rpg_resourse192').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse193').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse194').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse195').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse196').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse197').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse198').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse199').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse200').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse201').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse202').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse203').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse204').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse205').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse206').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse207').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse208').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse209').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse210').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse211').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse212').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse213').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse214').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse215').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse216').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse217').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse218').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse219').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse220').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse221').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse222').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse223').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse224').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse225').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse226').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse227').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse228').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse229').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse230').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse231').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse232').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse233').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse234').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse235').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse236').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse237').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse238').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
+	event.create('food_rpg_resourse239').food(food => {
+		food
+    		.hunger(6)
+    		.saturation(6)
+//      		.effect('speed', 600, 0, 1)
+//      		.removeEffect('poison')
+//      		.alwaysEdible()//Like golden apples
+//      		.fastToEat()//Like dried kelp
+//      		.meat()//Dogs are willing to eat it
+	})
